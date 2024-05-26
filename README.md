@@ -1,2 +1,2 @@
-# Master_thesis
-Master thesis 
+# Master thesis
+Genetic algorithm for sample concatenation 
